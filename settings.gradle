@@ -1,0 +1,2 @@
+rootProject.name = "recorder"
+include ':app'
